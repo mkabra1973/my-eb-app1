@@ -40,7 +40,7 @@ welcome = """
   <style>
   body {
     color: #ffffff;
-    background-color: green;
+    background-color: blue;
     font-family: Arial, sans-serif;
     font-size:14px;
     -moz-transition-property: text-shadow;
